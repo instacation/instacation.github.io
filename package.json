@@ -1,5 +1,10 @@
 {
+<<<<<<< HEAD
   "name": "react-electron",
+=======
+  "homepage": "http://instacation.github.io",
+  "name": "my-app",
+>>>>>>> d057dfc9dd13d013eea1582702bc558818327e34
   "version": "0.1.0",
   "private": true,
   "homepage": "http://instacation.gihub.io",
