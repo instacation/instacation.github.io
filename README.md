@@ -112,7 +112,7 @@ The remainder of this document contains a tutorial on creating a React app (usin
 6. **Add the GitHub repository as a "remote" in your local git repository.** (1 minute)
 
     ```
-    $ git remote add origin https://instacation.com/gitname/my-app.git
+    $ git remote add origin https://github.com/instacation/my-app.git
     ```
     
     * This will make it so the `gh-pages` package knows where you want it to deploy your app in step 7.
@@ -125,7 +125,7 @@ The remainder of this document contains a tutorial on creating a React app (usin
     ```
     
     * That's it! Your app is now accessible at the URL you specified in step 4.
-    * In my case, my app is now accessible at: https://instacation.com/gitname/my-app/
+    * In my case, my app is now accessible at: https://instacation.github.io/my-app/
     * I recommend exploring the GitHub repository at this point. When I explored it, I noticed that, although a `master` branch did not exist, a `gh-pages` branch did exist. I noticed the latter contained the *built* app code, as opposed to the app's source code.
 
 8. **Optionally, commit your source code to the "master" branch and push your commit to GitHub.** (1 minute)
