@@ -8,19 +8,21 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Website <code>in production</code> please call back soon.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.instagram.com/instacation/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Back To Instagram
         </a>
       </header>
     </div>
   );
 }
+
+
 
 export default App;
